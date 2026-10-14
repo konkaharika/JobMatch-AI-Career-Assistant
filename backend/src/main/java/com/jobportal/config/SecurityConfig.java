@@ -59,7 +59,8 @@ public class SecurityConfig {
                 "http://localhost:5173",
                 "http://localhost:4173",
                 "https://job-match-ai-career-assistant-qyc7ve6ob-24eg107g07-3424.vercel.app",
-                "https://job-match-ai-career-assistant.vercel.app"
+                "https://job-match-ai-career-assistant.vercel.app",
+                "https://job-match-ai-career-assistant-eez41nele-24eg107g07-3424.vercel.app"
         ));
 
         c.setAllowedMethods(List.of(
